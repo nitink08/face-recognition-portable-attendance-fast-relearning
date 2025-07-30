@@ -1,0 +1,2 @@
+# face-recognition-portable-attendance-fast-relearning
+FACE RECOGNITION-BASED PORTABLE ATTENDANCE SYSTEM WITH FAST RELEARNING FOR NEW AUDIENCE
