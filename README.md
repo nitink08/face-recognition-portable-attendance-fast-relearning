@@ -1,4 +1,4 @@
-# Face Recognition Incremental Learning Experiments
+# Face Recognition Incremental Learning Experiments (LJMU Thesis Experiments - Nitin Katiyar - PN1135349 - MSC in AI & ML)
 FACE RECOGNITION-BASED PORTABLE ATTENDANCE SYSTEM WITH FAST RELEARNING FOR NEW AUDIENCE
 
 ## Overview
